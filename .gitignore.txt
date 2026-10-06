@@ -48,3 +48,11 @@ captures/
 
 ### Gradle ###
 !gradle/wrapper/gradle-wrapper.jar
+
+### Local caches and auxiliary files ###
+.kotlin/
+.gigacode/
+.DS_Store
+__MACOSX/
+~$*.xlsx
+
