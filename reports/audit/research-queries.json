@@ -1,0 +1,572 @@
+{
+  "checkedAtUtc": "2026-10-25T08:39:48.610191+00:00",
+  "requests": [
+    {
+      "query": "",
+      "httpDate": "Sun, 25 Oct 2026 08:39:48 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 8,
+      "rows": [
+        {
+          "id": 59159,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788641372695,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59469,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1789135514125,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59146,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788625322260,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59147,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788627420186,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 58983,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788453998653,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 58982,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788452417946,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59145,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788623155898,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59410,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788879667136,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "query": "?pages=0&publishDate=false",
+      "httpDate": "Sun, 25 Oct 2026 08:39:49 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 0,
+      "rows": [
+        {
+          "id": 58263,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162024,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58264,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162167,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58265,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162260,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58266,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162360,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58267,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162454,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58268,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162552,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58269,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584162685,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        },
+        {
+          "id": 58262,
+          "title": "Zero_page_240826_150920_ar",
+          "publishDate": 1787584160888,
+          "publishEnabled": true,
+          "createDate": 1787584161935,
+          "eligibleForPublic": false,
+          "publishUtc": "outside_normal_seconds_range"
+        }
+      ]
+    },
+    {
+      "query": "?pages=1&publishDate=false",
+      "httpDate": "Sun, 25 Oct 2026 08:39:49 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 0,
+      "rows": [
+        {
+          "id": 63075,
+          "title": "Test news future_1792872073325",
+          "publishDate": 1893528060,
+          "publishEnabled": true,
+          "createDate": 1792872079907,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T20:01:00+00:00"
+        },
+        {
+          "id": 63069,
+          "title": "Test news future_1792871437509",
+          "publishDate": 1893527400,
+          "publishEnabled": true,
+          "createDate": 1792871443946,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T19:50:00+00:00"
+        },
+        {
+          "id": 63062,
+          "title": "Test news future_1792870260986",
+          "publishDate": 1893526260,
+          "publishEnabled": true,
+          "createDate": 1792870267425,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T19:31:00+00:00"
+        },
+        {
+          "id": 63056,
+          "title": "Test news future_1792869702418",
+          "publishDate": 1893525660,
+          "publishEnabled": true,
+          "createDate": 1792869708719,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T19:21:00+00:00"
+        },
+        {
+          "id": 63048,
+          "title": "Test news future_1792868182619",
+          "publishDate": 1893524160,
+          "publishEnabled": true,
+          "createDate": 1792868189111,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T18:56:00+00:00"
+        },
+        {
+          "id": 63042,
+          "title": "Test news future_1792866656607",
+          "publishDate": 1893522600,
+          "publishEnabled": true,
+          "createDate": 1792866663580,
+          "eligibleForPublic": false,
+          "publishUtc": "2030-01-01T18:30:00+00:00"
+        },
+        {
+          "id": 62915,
+          "title": "День рождения",
+          "publishDate": 1793177940,
+          "publishEnabled": true,
+          "createDate": 1792573178008,
+          "eligibleForPublic": false,
+          "publishUtc": "2026-10-28T08:59:00+00:00"
+        },
+        {
+          "id": 62916,
+          "title": "Зарплата",
+          "publishDate": 1793092320,
+          "publishEnabled": true,
+          "createDate": 1792573968641,
+          "eligibleForPublic": false,
+          "publishUtc": "2026-10-27T09:12:00+00:00"
+        }
+      ]
+    },
+    {
+      "query": "?pages=2&publishDate=false",
+      "httpDate": "Sun, 25 Oct 2026 08:39:49 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 6,
+      "rows": [
+        {
+          "id": 63081,
+          "title": "AUTO_discard_control_4085ed39-b36",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909616511,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63082,
+          "title": "AUTO_delete_control_8a6360c9-9e1",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909651037,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63079,
+          "title": "AUTO_inactive_control_db94c299-385",
+          "publishDate": 1792886400,
+          "publishEnabled": false,
+          "createDate": 1792909558921,
+          "eligibleForPublic": false,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63077,
+          "title": "AUTO_inactive_filter_37909128-bb0",
+          "publishDate": 1792886400,
+          "publishEnabled": false,
+          "createDate": 1792909542004,
+          "eligibleForPublic": false,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63076,
+          "title": "AUTO_active_control_ab3d35e8-908",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909538410,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63078,
+          "title": "AUTO_active_filter_8dad4ac7-ec8",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909554854,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63080,
+          "title": "AUTO_create_06de1e3e-926",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909590057,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63084,
+          "title": "AUTO_cancel_delete_f216f08b-c29",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909682093,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "query": "?pages=1&publishDate=true",
+      "httpDate": "Sun, 25 Oct 2026 08:39:49 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 8,
+      "rows": [
+        {
+          "id": 59418,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788879875121,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59146,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788625322260,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59159,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788641372695,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 58982,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788452417946,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59428,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788888686259,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59147,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788627420186,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59145,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788623155898,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59454,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1789126926728,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "query": "?pages=2&publishDate=true",
+      "httpDate": "Sun, 25 Oct 2026 08:39:50 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 8,
+      "rows": [
+        {
+          "id": 59145,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788623155898,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59146,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788625322260,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59432,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1789053867230,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 58982,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788452417946,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59418,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788879875121,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 59454,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1789126926728,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 58983,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1788453998653,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        },
+        {
+          "id": 60132,
+          "title": "Тестовая новость",
+          "publishDate": 1735722000,
+          "publishEnabled": true,
+          "createDate": 1790109710749,
+          "eligibleForPublic": true,
+          "publishUtc": "2025-01-01T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "query": "?pages=3&publishDate=false",
+      "httpDate": "Sun, 25 Oct 2026 08:39:50 GMT",
+      "pages": 186,
+      "count": 8,
+      "eligible": 7,
+      "rows": [
+        {
+          "id": 63079,
+          "title": "AUTO_inactive_control_db94c299-385",
+          "publishDate": 1792886400,
+          "publishEnabled": false,
+          "createDate": 1792909558921,
+          "eligibleForPublic": false,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63080,
+          "title": "AUTO_create_06de1e3e-926",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909590057,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63087,
+          "title": "AUTO_category_a_25e7bf5d-e30",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909791171,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63088,
+          "title": "AUTO_category_b_3658a475-832",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909794560,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63084,
+          "title": "AUTO_cancel_delete_f216f08b-c29",
+          "publishDate": 1792886400,
+          "publishEnabled": true,
+          "createDate": 1792909682093,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-25T00:00:00+00:00"
+        },
+        {
+          "id": 63074,
+          "title": "Test news 1792872041275",
+          "publishDate": 1792872000,
+          "publishEnabled": true,
+          "createDate": 1792872047985,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-24T20:00:00+00:00"
+        },
+        {
+          "id": 63073,
+          "title": "Test news 1792872024211",
+          "publishDate": 1792872000,
+          "publishEnabled": true,
+          "createDate": 1792872030751,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-24T20:00:00+00:00"
+        },
+        {
+          "id": 63072,
+          "title": "Объявление",
+          "publishDate": 1792871940,
+          "publishEnabled": true,
+          "createDate": 1792871956211,
+          "eligibleForPublic": true,
+          "publishUtc": "2026-10-24T19:59:00+00:00"
+        }
+      ]
+    }
+  ]
+}

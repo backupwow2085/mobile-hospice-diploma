@@ -1,0 +1,7 @@
+{
+  "status": "left_in_place_at_user_request",
+  "decisionDate": "2026-10-25",
+  "plannedOwnRecords": 38,
+  "deletedRecords": 0,
+  "reason": "Игорь попросил оставить записи. Автоматическая очистка в UI-тестах также отключена."
+}

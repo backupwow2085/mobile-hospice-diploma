@@ -1,0 +1,31 @@
+{
+  "checkedAtUtc": "2026-10-25T09:31:51.702505+00:00",
+  "operation": "read_only",
+  "pagesRead": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "records": [
+    {
+      "id": 63091,
+      "title": "AUTO_research_future_to_today_7e0376f8-fa5",
+      "exists": true,
+      "publishEnabled": true,
+      "publishDate": 1792886400,
+      "publishUtc": "2026-10-25T00:00:00+00:00",
+      "inRequestedPage1": false
+    },
+    {
+      "id": 63090,
+      "title": "AUTO_research_today_d9f3a4a2-283",
+      "exists": true,
+      "publishEnabled": true,
+      "publishDate": 1792886400,
+      "publishUtc": "2026-10-25T00:00:00+00:00",
+      "inRequestedPage1": false
+    }
+  ]
+}

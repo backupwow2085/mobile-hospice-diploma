@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-26",
+  "tests": 20,
+  "counts": {
+    "passed": 19,
+    "failed": 1
+  },
+  "passed": 19,
+  "nonpassed": 1,
+  "seconds": 253.528,
+  "runDirectory": "build/test-artifacts/20261026-141230-709",
+  "automaticNewsCleanup": false,
+  "explicitNewsRefresh": false,
+  "scopeDocument": "NoRefreshScope.md",
+  "cases": {
+    "TC-MISSION-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-LOGOUT-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-AUTH-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-DELETE-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-CREATE-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-AUTH-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-AUTH-005": {
+      "status": "failed",
+      "reason": "BUG-003: неверное сообщение при ошибке входа",
+      "message": "Ожидалось Toast-сообщение: «Wrong login or password». Фактически: [Something went wrong. Try again later., V Hospice]"
+    },
+    "TC-CREATE-005": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-NEWS-004": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-NAV-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-NEWS-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-CTRL-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-EDIT-002": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-CREATE-006": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-NEWS-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-NEWS-003": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-CTRL-003": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-EDIT-003": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-CREATE-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    },
+    "TC-DELETE-001": {
+      "status": "passed",
+      "reason": "Пройден",
+      "message": ""
+    }
+  },
+  "newsListRefactored": true
+}

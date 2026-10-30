@@ -1,0 +1,90 @@
+[
+  {
+    "query": "pages=0",
+    "responsePages": 176,
+    "elements": 8,
+    "ids": [
+      58263,
+      58264,
+      58265,
+      58266,
+      58267,
+      58268,
+      58269,
+      58262
+    ],
+    "ownAuditRecords": []
+  },
+  {
+    "query": "pages=1",
+    "responsePages": 176,
+    "elements": 8,
+    "ids": [
+      62915,
+      62916,
+      62973,
+      62976,
+      62974,
+      62972,
+      62975,
+      62977
+    ],
+    "ownAuditRecords": []
+  },
+  {
+    "query": "pages=2",
+    "responsePages": 176,
+    "elements": 8,
+    "ids": [
+      62976,
+      62978,
+      62975,
+      62977,
+      62979,
+      62973,
+      62983,
+      62985
+    ],
+    "ownAuditRecords": []
+  },
+  {
+    "query": "pages=3",
+    "responsePages": 176,
+    "elements": 8,
+    "ids": [
+      62975,
+      62991,
+      62990,
+      62992,
+      62987,
+      62988,
+      62989,
+      62993
+    ],
+    "ownAuditRecords": [
+      "AUTO_audit_absence_155fe8e2-269",
+      "AUTO_audit_category_b_f6fbfcce-2f0",
+      "AUTO_audit_public_4c15f56a-5ff",
+      "AUTO_create_f07a42fe-74f",
+      "AUTO_audit_category_a_fc811efa-268",
+      "AUTO_audit_active_cb33a18b-c3f"
+    ]
+  },
+  {
+    "query": "pages=175",
+    "responsePages": 176,
+    "elements": 2,
+    "ids": [
+      59422,
+      59432
+    ],
+    "ownAuditRecords": []
+  },
+  {
+    "query": "pages=176",
+    "responsePages": 176,
+    "elements": 0,
+    "ids": [],
+    "ownAuditRecords": []
+  }
+]

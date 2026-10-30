@@ -1,0 +1,333 @@
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.AuthTest:
+INSTRUMENTATION_STATUS: test=emptyCredentialsShowValidationAndKeepAuthorizationScreen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=emptyCredentialsShowValidationAndKeepAuthorizationScreen
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=invalidCredentialsShowErrorAndKeepAuthorizationScreen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stack=java.lang.AssertionError: Ожидалось Toast-сообщение: «Wrong login or password». Фактически: [Something went wrong. Try again later., V Hospice]
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at ru.edu.qamid.utils.ToastAssertions.duringAction(ToastAssertions.java:38)
+	at ru.edu.qamid.screens.AuthScreen.lambda$submitAndAssertToast$5(AuthScreen.java:93)
+	at ru.edu.qamid.screens.AuthScreen.$r8$lambda$nDKVvLCCEt5bvKB_FG2Us1bInoY(Unknown Source:0)
+	at ru.edu.qamid.screens.AuthScreen$$ExternalSyntheticLambda2.invoke(D8$$SyntheticClass:0)
+	at io.qameta.allure.kotlin.Allure.step(Allure.kt:60)
+	at ru.edu.qamid.screens.AuthScreen.submitAndAssertToast(AuthScreen.java:91)
+	at ru.edu.qamid.tests.AuthTest.invalidCredentialsShowErrorAndKeepAuthorizationScreen(AuthTest.java:46)
+
+INSTRUMENTATION_STATUS: stream=
+Error in invalidCredentialsShowErrorAndKeepAuthorizationScreen(ru.edu.qamid.tests.AuthTest):
+java.lang.AssertionError: Ожидалось Toast-сообщение: «Wrong login or password». Фактически: [Something went wrong. Try again later., V Hospice]
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at ru.edu.qamid.utils.ToastAssertions.duringAction(ToastAssertions.java:38)
+	at ru.edu.qamid.screens.AuthScreen.lambda$submitAndAssertToast$5(AuthScreen.java:93)
+	at ru.edu.qamid.screens.AuthScreen.$r8$lambda$nDKVvLCCEt5bvKB_FG2Us1bInoY(Unknown Source:0)
+	at ru.edu.qamid.screens.AuthScreen$$ExternalSyntheticLambda2.invoke(D8$$SyntheticClass:0)
+	at io.qameta.allure.kotlin.Allure.step(Allure.kt:60)
+	at ru.edu.qamid.screens.AuthScreen.submitAndAssertToast(AuthScreen.java:91)
+	at ru.edu.qamid.tests.AuthTest.invalidCredentialsShowErrorAndKeepAuthorizationScreen(AuthTest.java:46)
+
+INSTRUMENTATION_STATUS: test=invalidCredentialsShowErrorAndKeepAuthorizationScreen
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=validCredentialsOpenMainScreen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.AuthTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=validCredentialsOpenMainScreen
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.ControlPanelFilterTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.ControlPanelFilterTest:
+INSTRUMENTATION_STATUS: test=inactiveFilterExcludesActiveNews
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.ControlPanelFilterTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=inactiveFilterExcludesActiveNews
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.ControlPanelFilterTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=activeFilterExcludesInactiveNews
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.ControlPanelFilterTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=activeFilterExcludesInactiveNews
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.CreateNewsTest:
+INSTRUMENTATION_STATUS: test=emptyFormShowsRequiredFieldErrors
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=emptyFormShowsRequiredFieldErrors
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=cancelDiscardKeepsFormValues
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=cancelDiscardKeepsFormValues
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=createNewsWithRequiredFields
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=createNewsWithRequiredFields
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=confirmDiscardDoesNotCreateNews
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.CreateNewsTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=confirmDiscardDoesNotCreateNews
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.DeleteNewsTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.DeleteNewsTest:
+INSTRUMENTATION_STATUS: test=confirmedDeletionRemovesNewsFromCurrentList
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.DeleteNewsTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=confirmedDeletionRemovesNewsFromCurrentList
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.DeleteNewsTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=cancelDeletionKeepsNews
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.DeleteNewsTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=cancelDeletionKeepsNews
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.EditNewsTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.EditNewsTest:
+INSTRUMENTATION_STATUS: test=editTitleAndDescriptionKeepsOtherValues
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.EditNewsTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=editTitleAndDescriptionKeepsOtherValues
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.EditNewsTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=deactivatedNewsKeepsInactiveStatus
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.EditNewsTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=deactivatedNewsKeepsInactiveStatus
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.LogoutTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.LogoutTest:
+INSTRUMENTATION_STATUS: test=logoutPreventsReturningToMainScreen
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.LogoutTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=logoutPreventsReturningToMainScreen
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.MissionTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.MissionTest:
+INSTRUMENTATION_STATUS: test=missionQuoteCanBeExpandedAndCollapsed
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.MissionTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=missionQuoteCanBeExpandedAndCollapsed
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NavigationTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.NavigationTest:
+INSTRUMENTATION_STATUS: test=mainAndNewsMenuNavigation
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NavigationTest
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=mainAndNewsMenuNavigation
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+ru.edu.qamid.tests.NewsFilterTest:
+INSTRUMENTATION_STATUS: test=categoryFilterExcludesOtherCategory
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=categoryFilterExcludesOtherCategory
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=sortingChangesDateOrderBothWays
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=sortingChangesDateOrderBothWays
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=incompleteDatePeriodShowsDialog
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=incompleteDatePeriodShowsDialog
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=dateFilterIncludesBoundaryAndExcludesOtherDates
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=ru.edu.qamid.tests.NewsFilterTest
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=20
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=dateFilterIncludesBoundaryAndExcludesOtherDates
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_RESULT: stream=
+
+Time: 253.528
+There was 1 failure:
+1) invalidCredentialsShowErrorAndKeepAuthorizationScreen(ru.edu.qamid.tests.AuthTest)
+java.lang.AssertionError: Ожидалось Toast-сообщение: «Wrong login or password». Фактически: [Something went wrong. Try again later., V Hospice]
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at ru.edu.qamid.utils.ToastAssertions.duringAction(ToastAssertions.java:38)
+	at ru.edu.qamid.screens.AuthScreen.lambda$submitAndAssertToast$5(AuthScreen.java:93)
+	at ru.edu.qamid.screens.AuthScreen.$r8$lambda$nDKVvLCCEt5bvKB_FG2Us1bInoY(Unknown Source:0)
+	at ru.edu.qamid.screens.AuthScreen$$ExternalSyntheticLambda2.invoke(D8$$SyntheticClass:0)
+	at io.qameta.allure.kotlin.Allure.step(Allure.kt:60)
+	at ru.edu.qamid.screens.AuthScreen.submitAndAssertToast(AuthScreen.java:91)
+	at ru.edu.qamid.tests.AuthTest.invalidCredentialsShowErrorAndKeepAuthorizationScreen(AuthTest.java:46)
+
+FAILURES!!!
+Tests run: 20,  Failures: 1
+
+
+INSTRUMENTATION_CODE: -1

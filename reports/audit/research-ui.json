@@ -1,0 +1,405 @@
+[
+  {
+    "phase": "01_admin_baseline",
+    "deviceTime": "2026-10-25T08:45:10.699Z[GMT]",
+    "target": null,
+    "targetVisible": null,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "02_public_baseline",
+    "deviceTime": "2026-10-25T08:45:16.568Z[GMT]",
+    "target": null,
+    "targetVisible": null,
+    "rows": []
+  },
+  {
+    "phase": "03_today_immediate",
+    "deviceTime": "2026-10-25T08:45:23.440Z[GMT]",
+    "target": "AUTO_research_today_d9f3a4a2-283",
+    "targetVisible": true,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "AUTO_research_today_d9f3a4a2-283",
+        "date": "25.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "04_today_after_reload",
+    "deviceTime": "2026-10-25T08:45:25.269Z[GMT]",
+    "target": "AUTO_research_today_d9f3a4a2-283",
+    "targetVisible": false,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "05_today_after_65_seconds",
+    "deviceTime": "2026-10-25T08:46:28.406Z[GMT]",
+    "target": "AUTO_research_today_d9f3a4a2-283",
+    "targetVisible": false,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "06_today_after_delayed_reload",
+    "deviceTime": "2026-10-25T08:46:29.692Z[GMT]",
+    "target": "AUTO_research_today_d9f3a4a2-283",
+    "targetVisible": false,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "07_future_admin_after_reload",
+    "deviceTime": "2026-10-25T08:46:37.007Z[GMT]",
+    "target": "AUTO_research_future_to_today_7e0376f8-fa5",
+    "targetVisible": true,
+    "rows": [
+      {
+        "title": "AUTO_research_future_to_today_7e0376f8-fa5",
+        "date": "02.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "08_future_public_after_reload",
+    "deviceTime": "2026-10-25T08:46:42.899Z[GMT]",
+    "target": "AUTO_research_future_to_today_7e0376f8-fa5",
+    "targetVisible": false,
+    "rows": []
+  },
+  {
+    "phase": "09_changed_to_today_before_reload",
+    "deviceTime": "2026-10-25T08:46:46.429Z[GMT]",
+    "target": "AUTO_research_future_to_today_7e0376f8-fa5",
+    "targetVisible": true,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "AUTO_research_future_to_today_7e0376f8-fa5",
+        "date": "25.10.2026",
+        "status": "Active"
+      }
+    ]
+  },
+  {
+    "phase": "10_changed_to_today_after_reload",
+    "deviceTime": "2026-10-25T08:46:47.678Z[GMT]",
+    "target": "AUTO_research_future_to_today_7e0376f8-fa5",
+    "targetVisible": false,
+    "rows": [
+      {
+        "title": "Test news future_1792872073325",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792871437509",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792870260986",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792869702418",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792868182619",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "Test news future_1792866656607",
+        "date": "01.01.2030",
+        "status": "Active"
+      },
+      {
+        "title": "День рождения",
+        "date": "28.10.2026",
+        "status": "Active"
+      },
+      {
+        "title": "Зарплата",
+        "date": "27.10.2026",
+        "status": "Active"
+      }
+    ]
+  }
+]

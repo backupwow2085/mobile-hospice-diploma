@@ -1,0 +1,287 @@
+{
+  "checkedAtUtc": "2026-10-25T08:16:02.201366+00:00",
+  "pages": [
+    {
+      "requestedPage": 1,
+      "responsePages": 186,
+      "count": 8,
+      "eligibleForPublicNow": 0,
+      "rows": [
+        {
+          "id": 63075,
+          "title": "Test news future_1792872073325",
+          "publishEnabled": true,
+          "publishDate": 1893528060,
+          "publishUtc": "2030-01-01T20:01:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63069,
+          "title": "Test news future_1792871437509",
+          "publishEnabled": true,
+          "publishDate": 1893527400,
+          "publishUtc": "2030-01-01T19:50:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63062,
+          "title": "Test news future_1792870260986",
+          "publishEnabled": true,
+          "publishDate": 1893526260,
+          "publishUtc": "2030-01-01T19:31:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63056,
+          "title": "Test news future_1792869702418",
+          "publishEnabled": true,
+          "publishDate": 1893525660,
+          "publishUtc": "2030-01-01T19:21:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63048,
+          "title": "Test news future_1792868182619",
+          "publishEnabled": true,
+          "publishDate": 1893524160,
+          "publishUtc": "2030-01-01T18:56:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63042,
+          "title": "Test news future_1792866656607",
+          "publishEnabled": true,
+          "publishDate": 1893522600,
+          "publishUtc": "2030-01-01T18:30:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 62915,
+          "title": "День рождения",
+          "publishEnabled": true,
+          "publishDate": 1793177940,
+          "publishUtc": "2026-10-28T08:59:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 62916,
+          "title": "Зарплата",
+          "publishEnabled": true,
+          "publishDate": 1793092320,
+          "publishUtc": "2026-10-27T09:12:00+00:00",
+          "eligibleForPublicNow": false
+        }
+      ]
+    },
+    {
+      "requestedPage": 2,
+      "responsePages": 186,
+      "count": 8,
+      "eligibleForPublicNow": 6,
+      "rows": [
+        {
+          "id": 63081,
+          "title": "AUTO_discard_control_4085ed39-b36",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63082,
+          "title": "AUTO_delete_control_8a6360c9-9e1",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63079,
+          "title": "AUTO_inactive_control_db94c299-385",
+          "publishEnabled": false,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63077,
+          "title": "AUTO_inactive_filter_37909128-bb0",
+          "publishEnabled": false,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63076,
+          "title": "AUTO_active_control_ab3d35e8-908",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63078,
+          "title": "AUTO_active_filter_8dad4ac7-ec8",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63080,
+          "title": "AUTO_create_06de1e3e-926",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63084,
+          "title": "AUTO_cancel_delete_f216f08b-c29",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        }
+      ]
+    },
+    {
+      "requestedPage": 3,
+      "responsePages": 186,
+      "count": 8,
+      "eligibleForPublicNow": 7,
+      "rows": [
+        {
+          "id": 63079,
+          "title": "AUTO_inactive_control_db94c299-385",
+          "publishEnabled": false,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": false
+        },
+        {
+          "id": 63080,
+          "title": "AUTO_create_06de1e3e-926",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63087,
+          "title": "AUTO_category_a_25e7bf5d-e30",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63088,
+          "title": "AUTO_category_b_3658a475-832",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63084,
+          "title": "AUTO_cancel_delete_f216f08b-c29",
+          "publishEnabled": true,
+          "publishDate": 1792886400,
+          "publishUtc": "2026-10-25T00:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63074,
+          "title": "Test news 1792872041275",
+          "publishEnabled": true,
+          "publishDate": 1792872000,
+          "publishUtc": "2026-10-24T20:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63073,
+          "title": "Test news 1792872024211",
+          "publishEnabled": true,
+          "publishDate": 1792872000,
+          "publishUtc": "2026-10-24T20:00:00+00:00",
+          "eligibleForPublicNow": true
+        },
+        {
+          "id": 63072,
+          "title": "Объявление",
+          "publishEnabled": true,
+          "publishDate": 1792871940,
+          "publishUtc": "2026-10-24T19:59:00+00:00",
+          "eligibleForPublicNow": true
+        }
+      ]
+    }
+  ],
+  "oldNewsById": [
+    {
+      "id": 62915,
+      "exists": true,
+      "title": "День рождения",
+      "publishEnabled": true,
+      "publishDate": 1793177940,
+      "publishUtc": "2026-10-28T08:59:00+00:00"
+    },
+    {
+      "id": 62916,
+      "exists": true,
+      "title": "Зарплата",
+      "publishEnabled": true,
+      "publishDate": 1793092320,
+      "publishUtc": "2026-10-27T09:12:00+00:00"
+    },
+    {
+      "id": 62973,
+      "exists": true,
+      "title": "AutoTest 1792792954485",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": 62976,
+      "exists": true,
+      "title": "AutoTest 1792794489670",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": 62974,
+      "exists": true,
+      "title": "OldTitle 1792792966068",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": 62972,
+      "exists": true,
+      "title": "День рождения",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": 62975,
+      "exists": true,
+      "title": "День рождения",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": 62977,
+      "exists": true,
+      "title": "OldTitle 1792794505889",
+      "publishEnabled": true,
+      "publishDate": 1792836000,
+      "publishUtc": "2026-10-24T10:00:00+00:00"
+    }
+  ]
+}

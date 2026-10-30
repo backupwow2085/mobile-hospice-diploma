@@ -1,0 +1,14 @@
+[
+  {
+    "method": "unfilteredPairMustFailStatusAssertion",
+    "expectedStatus": "failed",
+    "actualStatus": "failed",
+    "message": "Новость противоположного статуса осталась"
+  },
+  {
+    "method": "existingNewsMustFailAbsenceAssertion",
+    "expectedStatus": "failed",
+    "actualStatus": "failed",
+    "message": "Новость осталась в списке: AUTO_audit_absence_b1619abc-4a1"
+  }
+]
